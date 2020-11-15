@@ -1,4 +1,5 @@
-# personal-website-template
+# personal portfolio .. somewhat social
+
 
 A simple one page template suited for personal and portfolio pages. 
 
